@@ -1,0 +1,15 @@
+{
+	"name": "Rosemonfactory1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb256823-8890-4133-bf1c-0d3767de3dd0",
+		"tenantId": "d57d32cc-c121-488f-b07b-dfe705680c71"
+	}
+}
